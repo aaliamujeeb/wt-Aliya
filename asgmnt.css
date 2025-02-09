@@ -1,0 +1,28 @@
+body{
+	border-style:double;
+	border-width:thick;
+}
+.clr{
+	color:dodgerblue;
+}
+.clrr,h2{
+	color:red;
+}
+h2{
+	font-size:30px;
+	color:slateblue;
+}
+p{
+	font-style:oblique;
+
+	font-size:20px;
+}	
+h1{
+	font-style:italic;
+	font-size:40px;
+	border-left:2px solid green;
+	border-left-width:thick;
+	background-color:lightgreen;
+}
+
+	
